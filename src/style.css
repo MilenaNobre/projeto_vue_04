@@ -1,0 +1,8 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+body {
+    color: #fff;
+    background: linear-gradient(to right, #0f0c29, #302b63, #24243e); /*https://uigradients.com/#Virgin*/
+    margin: 0;
+}
